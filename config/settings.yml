@@ -1,0 +1,4 @@
+plugins:
+  feed_sort:
+    default: true
+    client: true
