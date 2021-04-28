@@ -1,3 +1,4 @@
 en:
   site_settings:
     feed_sort: "Enable Feed Sort Plugin"
+    disable_bump_for: "Disable Bumping of Topics Created __ hours ago"
